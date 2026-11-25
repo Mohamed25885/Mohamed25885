@@ -19,4 +19,4 @@ I lead small teams, ship production systems, and like clean, tested code.
 
 ## Work with me
 Open to freelance and side projects: Laravel backends, Flutter apps, integrations, audits, fixes.
-LinkedIn: linkedin.com/in/mohamedsamy25885
+Linkedin:[linkedin.com/in/mohamedsamy25885](https://linkedin.com/in/mohamedsamy25885) 
